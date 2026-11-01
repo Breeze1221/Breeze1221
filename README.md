@@ -2,7 +2,7 @@
 <span style="font-size:16px;color:#666;">欢迎来到Breeze的主页 😝</span>
 <h1 align="center">
   <a href="https://breezexing.xyz/">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=躬身入局，心为主理，行有尺度，自持本心.;console.log(%22fqzlr的主页%22)">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=山高自由客行路，水深自有渡船人❤.;console.log(%22Breeze的主页%22)">
   </a>
 </h1>
 <!-- 敲代码的图片 -->
