@@ -12,7 +12,7 @@
 
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://blogbreezexing.xyz/"></a>&emsp;
+  <a href="https://blog.breezexing.xyz/"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
   
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
