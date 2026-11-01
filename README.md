@@ -10,10 +10,6 @@
   <img border-radius="100px" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/>
 </div>
 
-<!-- 个人资料徽标 -->
-<div align="center">
-  <a href="https://fqzlr.com/"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
-
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
 💪 正在学习:
